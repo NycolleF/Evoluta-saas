@@ -1,14 +1,8 @@
-# Evoluta Client Manager
+# Evoluta
 
-Sistema SaaS para gestão de mentorias empresariais, desenvolvido com arquitetura fullstack moderna.
+Sistema para empresas de mentoria organizarem seus clientes e acompanharem as mentorias. Fiz o backend em Java com Spring Boot e o frontend em React.
 
-## Sobre o projeto
-
-O Evoluta é uma aplicação web criada para auxiliar empresas e mentores na organização de clientes, acompanhamento de processos e centralização de informações.
-
-O sistema foi projetado com foco em escalabilidade e separação de responsabilidades, utilizando backend em Java com Spring Boot e frontend em React.
-
-## Tecnologias utilizadas
+## Tecnologias
 
 - Java 17
 - Spring Boot (API REST)
@@ -18,26 +12,17 @@ O sistema foi projetado com foco em escalabilidade e separação de responsabili
 ## Funcionalidades
 
 - Cadastro de clientes
-- Gestão de mentorias
-- Sistema de autenticação (login)
-- Integração entre frontend e backend via API REST
-- Persistência de dados em banco relacional
+- Controle das mentorias
+- Login
+- Frontend e backend conversando por API REST
+- Dados salvos em banco relacional
 
-## Arquitetura
+## Pastas
 
-O projeto foi dividido em:
+- `backend/`: API com Spring Boot
+- `frontend/`: telas em React
+- `banco/`: scripts SQL
 
-- `backend/` → API REST com Spring Boot
-- `frontend/` → Interface em React
-- `banco/` → Scripts SQL
+## Status
 
-## Deploy
-
-O sistema pode ser publicado gratuitamente utilizando:
-
-- Backend: Render
-- Frontend: Vercel
-
-## Status do projeto
-
-Em desenvolvimento – novas funcionalidades estão sendo implementadas.
+Em desenvolvimento.
