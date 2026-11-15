@@ -2,6 +2,13 @@
 
 Sistema para empresas de mentoria organizarem seus clientes e acompanharem as mentorias. Fiz o backend em Java com Spring Boot e o frontend em React.
 
+## O que pratiquei neste projeto
+
+- Criar uma API REST com Spring Boot, separando controllers, DTOs e models
+- Ligar o frontend em React ao backend (incluindo a configuração de CORS)
+- Fazer login no sistema
+- Salvar os dados num banco MariaDB
+
 ## Tecnologias
 
 - Java 17
