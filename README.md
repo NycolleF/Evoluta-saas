@@ -2,6 +2,12 @@
 
 Sistema para empresas de mentoria organizarem seus clientes e acompanharem as mentorias. Fiz o backend em Java com Spring Boot e o frontend em React.
 
+![Painel principal do Evoluta](docs/painel.jpg)
+
+![Lista de clientes do Evoluta](docs/clientes.jpg)
+
+*Telas com dados de demonstração.*
+
 ## O que pratiquei neste projeto
 
 - Criar uma API REST com Spring Boot, separando controllers, DTOs e models
